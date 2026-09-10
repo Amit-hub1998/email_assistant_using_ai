@@ -31,15 +31,15 @@ flowchart LR
 | # | Doc | What it covers |
 |:-:|-----|----------------|
 | 1 | [Architecture](01-architecture.md) | The big picture — where everything runs |
-| 2 | [Where to Run It](docs/02-where-to-run-it.md) | Jupyter vs VS Code vs server — decided |
-| 3 | [Connecting to Outlook](docs/03-connecting-to-outlook.md) | Auth, Graph API, getting emails into Python |
-| 4 | [Fetch & Summarize](docs/04-fetch-and-summarize.md) | Reading the inbox, building summaries |
-| 5 | [Grouping Emails](docs/05-grouping.md) | How emails get clustered |
-| 6 | [Prioritization](docs/06-prioritization.md) | How P1/P2/P3 gets assigned |
-| 7 | [Reply Suggestions](docs/07-reply-suggestions.md) | Generating draft replies |
-| 8 | [Interface Options](docs/08-interface.md) | CLI, notebook, or GUI? |
-| 9 | [Knowledge Required](docs/09-knowledge-required.md) | Skills roadmap to build this |
-| 10 | [Build Roadmap](docs/10-build-roadmap.md) | Phase-by-phase plan |
+| 2 | [Where to Run It](02-where-to-run-it.md) | Jupyter vs VS Code vs server — decided |
+| 3 | [Connecting to Outlook](03-connecting-to-outlook.md) | Auth, Graph API, getting emails into Python |
+| 4 | [Fetch & Summarize](04-fetch-and-summarize.md) | Reading the inbox, building summaries |
+| 5 | [Grouping Emails](05-grouping.md) | How emails get clustered |
+| 6 | [Prioritization](06-prioritization.md) | How P1/P2/P3 gets assigned |
+| 7 | [Reply Suggestions](07-reply-suggestions.md) | Generating draft replies |
+| 8 | [Interface Options](08-interface.md) | CLI, notebook, or GUI? |
+| 9 | [Knowledge Required](09-knowledge-required.md) | Skills roadmap to build this |
+| 10 | [Build Roadmap](10-build-roadmap.md) | Phase-by-phase plan |
 
 ---
 
