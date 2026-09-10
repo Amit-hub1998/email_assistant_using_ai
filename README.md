@@ -30,7 +30,7 @@ flowchart LR
 
 | # | Doc | What it covers |
 |:-:|-----|----------------|
-| 1 | [Architecture](docs/01-architecture.md) | The big picture — where everything runs |
+| 1 | [Architecture](01-architecture.md) | The big picture — where everything runs |
 | 2 | [Where to Run It](docs/02-where-to-run-it.md) | Jupyter vs VS Code vs server — decided |
 | 3 | [Connecting to Outlook](docs/03-connecting-to-outlook.md) | Auth, Graph API, getting emails into Python |
 | 4 | [Fetch & Summarize](docs/04-fetch-and-summarize.md) | Reading the inbox, building summaries |
